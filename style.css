@@ -1,0 +1,887 @@
+div.ash
+    {  background: linear-gradient(white, #D2D2D2);
+    width: 1100px;
+    height: 680px;
+    background-color: #D2D2D2;
+    margin: 0 auto;
+    }
+/* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    padding-top: 100px; /* Location of the box */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+   
+}
+
+#mybut1
+{
+    cursor:pointer;
+}
+#mybut2
+{
+    cursor:pointer;
+}
+#mybut3
+{
+    cursor:pointer;
+}
+#mybut4
+{
+    cursor:pointer;
+}
+#mybut5
+{
+    cursor:pointer;
+}
+#mybut6
+{
+    cursor:pointer;
+}
+/* Modal Content */
+.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+     border-style: solid;
+    border-width: 3px;
+    border-color: black;
+    font-weight: bold;
+}
+#n3
+{
+    
+}
+#n1{}
+#tab1{}
+#tab2{}
+#tab3{}
+#tab4{}
+#tab5{}
+#tab6{}
+
+/* The Close Button */
+.close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+}
+.close:hover,
+.close:focus {
+    color: #000;
+    text-decoration: none;
+    cursor: pointer;
+}
+    div.lightash
+    {
+         width:1100px;
+        height: 100px;
+        background-color: 	#E5E5E5;
+        margin:0 auto;
+    }
+    div.jbl
+    {   vertical-align: top;
+        margin-left: 100px;
+        width:130px;
+        height: 50px;
+        
+        display: inline-block;
+        
+    }
+    div.jbl2
+    {
+        vertical-align: top;
+        display:inline-block;
+    }
+    div.jbl3
+    {     
+          vertical-align: top;
+        display:inline-block;
+        padding-top:10px;
+    }
+    div.live1
+    {   padding-left:13px;
+        vertical-align: top;
+display: inline-block;
+    }
+    div.live2
+    {padding-left: 45px;
+
+
+vertical-align: top;
+display: inline-block;
+margin-top: -28px;
+
+        
+    }
+    div.live
+    {   
+         display: inline-block;
+        vertical-align: top;
+      
+        width:130px;
+        height: 50px;
+       
+    }
+    div.card1
+    {
+        padding-left: 13px;
+vertical-align: top;
+display: inline-block;
+
+    }
+    div.card2
+    {
+      padding-left: 39px;
+vertical-align: top;
+display: inline-block;
+margin-top: -25px;
+
+    }
+    div.card
+    {
+         display: inline-block;
+        vertical-align: top;
+        
+       width:130px;
+        height: 50px;
+       
+    }
+    div.wide
+    {
+           display: inline-block;
+    vertical-align: top;
+    width: 350px;
+    height: 50px;
+    margin-left: 755px;
+  
+    font-size: 9px;
+    color: gray;
+    position: relative;
+    bottom: 370px;
+      
+
+    }
+    a
+    {
+        text-decoration: none;
+        color:inherit;
+    }
+    div.four
+    {
+        padding-top:30px;
+    }
+    div.all
+    {
+        background-color: white;
+        width:900px;
+        height:710px;
+        margin-left: 100px;
+        margin-top: 50px;
+        border-style:hidden solid solid solid;
+        border-color: lightgrey;
+        border-width: 2px;
+        z-index: 2;
+        position: relative;
+    }
+    li
+    {
+        display: inline;
+        float:left;
+    }
+    li.s
+    {  margin-top: 4px;
+    width: 120px;
+    border-style: hidden hidden solid hidden;
+    border-color: lightgrey;
+    border-width: 2px;
+        
+    }
+    .txt
+    {
+        color: darkgrey;
+        font-weight: bold;
+        font-size:15px;
+    }
+    .txt1
+    {   text-align: center;
+    color: darkorange;
+    font-weight: bold;
+    font-size: 15px;
+    height: 20px;
+    border-style: hidden hidden solid hidden;
+    margin-left: 99px;
+    margin-right: -45px;
+    border-color: lightgrey;
+    margin-top: 17px;
+    border-width: 2px;
+    }
+    .t1
+    {
+         text-align: center;
+    color: darkorange;
+    font-weight: bold;
+    font-size: 14px;
+
+    height: 20px;
+       
+    }
+   
+    .two1
+    {
+        background-color: 	#D9D9D9;
+        background:linear-gradient(white 50%,#E8E8E8 50%);
+        
+         display: inline-block;
+        border-style:solid;
+        border-color: lightgrey;
+        border-width: 2px;
+        border-left-width: 2px;
+            margin-top: -14px;
+        padding:8px;
+        
+       
+        
+    }
+    a.link1
+    {
+        text-decoration:none;
+        color:darkgrey;
+    }
+    a.link2
+    {
+         text-decoration:none;
+        color:darkorange;
+    }
+    div.salv
+    {
+        float:left;
+        width:350px;
+        background-color:white;
+        display:inline-block;
+    }
+    img.im1
+    {        
+        padding-left: 25px;
+    }
+    div.textbox
+    {   
+        display:inline-block;
+        background-color:white;
+        width: 200px;
+        margin-right: 20px;
+        float:right;
+        
+        
+    }
+    img.play
+    {border-style: solid;
+    border-width: 1px;
+    border-color: darkgrey;
+    height: 25px;
+    position: relative;
+    top: 9px;
+    
+        
+    }
+    input.enter
+    {border-style: solid;
+    border-width: 1px;
+    border-color: darkgrey;
+    height: 22px;
+    width: 160px;
+    margin-top: 30px;
+        
+    }
+    div.sublink
+    {
+     padding-left:20px;
+        padding-top: 20px;
+        background-color: white;
+        width:600px;
+        height:40px;
+        float:left;
+        margin-right: 200px;
+}
+    div.jesus
+    {
+        float:left;
+        background-color: white;
+        height:200px;
+        width:650px;
+        margin-left: 20px;
+        
+    }
+    img.jes
+    {
+        float:left;
+        width:650px;
+        border-style: solid;
+        border-width: 1px;
+        border-color: darkgray;
+   
+       
+    }
+    div.mos
+    {
+        width:216px;
+        height:100px;
+        background-color: white;
+        
+         
+margin-left: 20px;
+        
+
+    }
+    img.mos1
+    {
+        width: 210px;
+height: 100px;
+padding-left: 3px;
+        padding-top: 20px;
+
+    }
+    div.mar
+    {
+        
+        width:216px;
+        height:100px;
+        background-color: white;
+        
+        margin-top: -102px;
+margin-left: 240px;
+       
+    }
+    div.cross
+    {
+      
+        width: 200px;
+    height: 100px;
+    background-color: white;
+    margin-top: -25px;
+    margin-left: 460px;
+
+    }
+    div.np
+    {
+        background-color:#D2D2D2;
+        background: linear-gradient(white 50%, #D2D2D2 50%);
+         float:left;
+        height:50px;
+        width:650px;
+        margin-left: 20px;
+         border-style: solid;
+        border-width: 1px;
+        border-color: darkgray;
+        margin-top: 4px;
+    }
+    div.np1
+    {
+        background-color:lightgray;
+        background: linear-gradient(white 50%, #D2D2D2 50%);
+        height:35px;
+        width:200px;
+        border-style: solid;
+        border-width: 1px;
+        border-color: darkgray;
+    }
+    .head1
+    {
+        color:grey;
+        
+        
+    font-size: 16px;
+    
+    padding-left: 10px;
+        text-align: center;
+
+    }
+.head2
+    {
+        color:grey;
+        
+        
+    font-size: 16px;
+    
+    padding-left: 10px;
+        text-align: center;
+
+    }
+.head3
+    {
+        color:grey;
+        
+        
+    font-size: 16px;
+    
+    padding-left: 10px;
+        text-align: center;
+
+    }
+.head4
+    {
+        color:grey;
+        
+        
+    font-size: 16px;
+    
+    padding-left: 10px;
+        text-align: center;
+
+    }
+.head5
+    {
+        color:grey;
+        
+        
+    font-size: 16px;
+    
+    padding-left: 10px;
+        text-align: center;
+
+    }
+.head6
+    {
+        color:grey;
+        
+        
+    font-size: 16px;
+    
+    padding-left: 10px;
+        text-align: center;
+
+    }
+    .repeatbutton
+    {
+        float:right;
+        background-image: url("image/Salvation_rightarrow.png");
+        background-repeat: no-repeat;
+        width:30px;
+        height:22px;
+    }
+.downbutton
+{
+    float:right;
+    background-image: url("image/Salvation_downarrow.png");
+    background-repeat: no-repeat;
+     width:30px;
+        height:30px;
+}
+    div.next1
+    {
+      float: right;
+margin-top: -14px;
+      
+  
+    }
+    div.prev1
+    {
+        float:left;
+    }
+    img.next
+    {
+        float:right;
+        width:50px;
+        padding-right: 25px;
+        padding-bottom: 150px;
+          cursor: pointer;
+
+    }
+    img.prev
+    {
+        float:left;
+        width:80px;
+        padding-left: 20px;
+        padding-top: 13px;
+          cursor: pointer;
+    }
+    div.smallash1
+    {
+        width:7px;
+        height:7px;
+        background-color: grey;
+        margin-left: 60px;
+margin-top: 20px;
+        cursor:pointer;
+
+        
+    }
+      div.smallash2
+    {
+        width:7px;
+        height:7px;
+        background-color:grey;
+       margin-left: 80px;
+margin-top: -7px;
+         cursor:pointer;
+
+
+        
+    }
+      div.smallash3
+    {
+        width:7px;
+        height:7px;
+        background-color: grey;
+        margin-left: 100px;
+margin-top: -7px;
+ cursor:pointer;
+
+
+        
+    }
+      div.smallash4
+    {
+        width:7px;
+        height:7px;
+        background-color:grey;
+     margin-left: 120px;
+margin-top: -7px;
+ cursor:pointer;
+
+        
+    }  div.smallash5
+    {
+        width:7px;
+        height:7px;
+        background-color:grey ;
+        
+        margin-left: 140px;
+        margin-top: -7px;
+         cursor:pointer;
+
+
+        
+    }  div.smallash6
+    {
+        width:7px;
+        height:7px;
+        background-color: grey;
+       margin-left: 160px;
+margin-top: -7px;
+ cursor:pointer;
+
+        
+    }
+    div.every
+    {
+        
+        width:250px;
+        margin-left: 200px;
+    }
+    div.feature
+    {      background-color: white;
+    width: 200px;
+    float: right;
+    z-index: 1000;    
+    border-style: solid;
+    border-color: darkgray;
+    border-width: 1px;
+    margin-right: 15px;
+    height: 410px;
+    position: relative;
+    bottom: 571px;
+
+    }
+    div.howto
+    {
+        background-color: white;
+        width:198px;
+        float:right;
+        
+        height: 190px;
+        
+       border-style: solid;
+        border-color: darkgray;
+        border-width: 1px;
+    }
+    div.divine
+    {
+        float left;
+        width:80px;
+        height:50px;
+    }
+    img.divine1
+    {
+         width:50px;
+        height:80px;
+        margin-left: 10px;
+        margin-top: 20px;
+    }
+    div.rec
+    {
+        float: right;
+background-color: white;
+width: 120px;
+margin-right: 10px;
+height: 100px;
+margin-top: -30px;
+
+    }
+    .sentence
+    {
+        font-size: 10px;
+        font-weight: bold;
+    }
+    .sentence1
+    {
+        font-size: 12px;
+        font-weight: bold;
+        color: darkgray;
+    }
+    div.thisbook
+    {  background-color:white;
+font-size: 10px;
+float: left;
+        padding-left: 20px;
+    padding-right: 20px;
+          
+     white-space: nowrap; 
+overflow: hidden;
+    text-overflow: ellipsis; 
+        width:150px;
+
+    }
+    div.more
+    {    padding-left: 8px;
+        background-color:white;
+        width:180px;
+        height:20px;
+        float:left;
+        font-size: 10px;
+    
+    }
+    img.more1
+    {
+        
+    }
+    div.see
+    {   
+        padding-top:4px;
+        text-align: center;
+        color: white;
+        font-weight: bold;
+        background-color: orange;
+        width:180px;
+        height:16px;
+        margin-top: 2px;
+        border-color:darkorange;
+        border-width: 1px;
+        border-style:solid;
+        
+    }
+    .some1
+    {
+        background-color: lightgray;
+         background: linear-gradient(white 50%, #D2D2D2 50%);
+height: 35px;
+width: 200px;
+border-style: solid;
+border-width: 1px;
+border-color: darkgray;
+       text-align: center;     
+    }
+    .some2
+    {
+        background-color: lightgray;
+        background: linear-gradient(white 50%, #D2D2D2 50%);
+height: 34px;
+width: 200px;
+border-style: solid;
+border-width: 1px;
+border-color: darkgray;
+          text-align: center;
+        
+
+    }
+.some3
+    {
+        background-color: lightgray;
+         background: linear-gradient(white 50%, #D2D2D2 50%);
+height: 35px;
+width: 200px;
+border-style: solid;
+border-width: 1px;
+border-color: darkgray;
+  text-align: center;
+    }
+.some4
+    {
+        background-color: lightgray;
+         background: linear-gradient(white 50%, #D2D2D2 50%);
+height: 34px;
+width: 200px;
+border-style: solid;
+border-width: 1px;
+border-color: darkgray;
+  text-align: center;
+    }
+.some5
+    {
+        background-color: lightgray;
+         background: linear-gradient(white 50%, #D2D2D2 50%);
+height: 34px;
+width: 200px;
+border-style: solid;
+border-width: 1px;
+border-color: darkgray;
+  text-align: center;
+    }
+    div.go1
+    { background-color: white;
+    margin-left: 25px;
+    margin-top: 390px;
+    width: 216px;
+    height: 130px;
+       
+
+    }
+    .go11
+    {font-weight: bold;
+ color: deeppink;
+        font-size: 10px;
+        
+    }
+    .go12
+    {    color: deeppink;
+        font-size: 8px;
+        
+        
+    }
+    .go13
+    {    color: orange;
+        font-size: 8px;
+        font-weight: bold;
+        
+    }
+    div.go2
+    {
+        background-color: white;
+        
+       
+        margin-left: 240px;
+margin-top: -130px;
+width: 216px;
+height: 130px;
+
+       
+    }
+     .go22
+    { color: deeppink;
+        font-size: 10px;
+        
+    }
+    div.go3
+    {
+        background-color: white;
+margin-left: 465px;
+margin-top: -130px;
+width: 216px;
+height: 130px;
+
+
+    }
+     .go33
+    { color: deeppink;
+        font-size: 10px;
+        
+    }
+    div.quick
+    {background-color: white;
+width: 200px;
+height: 130px;
+float: right;
+margin-top: -130px;
+margin-right: 12px;
+
+
+
+    }
+    .q1
+    {  
+        font-size: 11px;
+        font-weight: bold;
+        color:black;
+    }
+    .q2
+    {
+        font-size: 9px;
+color:black;
+    }
+    .jbl1{
+        width: 20px;
+padding-top: 10px;
+
+    }
+    .last
+    {
+        font-size: 10px;
+        color:gray;
+        font-weight: bold;
+    }
+    div.vad
+    {
+       float: right;
+width: 1px;
+height: 25px;
+background-color: grey;
+margin-top: 10px;
+margin-right: -5px;
+
+    }
+     div.vad1
+    {
+       float: right;
+width: 1px;
+height: 25px;
+background-color: grey;
+margin-top: -42px;
+margin-right: -5px;
+
+
+    }
+    div.vadall
+    {
+        
+    width: 550px;
+    height: 150px;
+    padding-left: 6px;
+    padding-top: 10px;
+    }
+    div.ambili
+    {
+        float: left;
+    
+    width: 900px;
+    height: -25px;
+  
+    margin-top: -41px;
+    margin-left: 59px;
+    }
+    #b0
+    {
+       
+    }
+    #b1{
+        
+    }
+    #b2{}
+    #b3{}
+    #b4{}
+    #b5{}
+    .a1{}
+    h3
+    {
+        margin:0px;
+        float:left;
+    }
